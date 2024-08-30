@@ -1,3 +1,3 @@
 # general settings
-APP_NAME = "BlueEye"
-APP_VERSION = "0.2.0"
+APP_NAME = 'BlueEye'
+APP_VERSION = '0.2.1'

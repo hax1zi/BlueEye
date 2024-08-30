@@ -1,1 +1,6 @@
 __pycache__/
+
+general.log
+IDS.log
+
+data.csv
